@@ -1,0 +1,17 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "codes_for_tommorow",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "codes_for_tommor",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
